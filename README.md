@@ -7,6 +7,7 @@ We create a Risk Score for each aircraft and identify the Top 100 Safest and Mos
 ## Contents
 - `index.ipynb`: Python notebook for data cleaning and risk calculation
 - `Aircraft_Risk_Analysis.twb`: Tableau dashboard visualizations
+- `Aircraft_Risk_Analysis_Presentation`: Presentation Slides
 - `aircraft_risk_2`: Cleaned sample datasets
 - `README.md`: Project documentation
 
